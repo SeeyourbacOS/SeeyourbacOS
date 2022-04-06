@@ -1,78 +1,65 @@
-## seeyourbacOS
-seeyourbacOS是基于seeyourbasic内核开发的操作系统，具有**简单，快速，稳定**等优势，在仅有命令行操作的情况下将娱乐性最大化。
+检查操作系统控制范围配置
+SeeyourbacOS 是一个基于架构的操作系统 非常简单快捷 实现稳定的订单非常令人兴奋
 
-### seeyourbacOS的简单性
-seeyourbacOS只有命令行操作能力，但是支持32位内核，具有基础的文件系统，而且具有全环境配置的能力，轻而易举的就可以配置需要的开发环境。
+seeyourbacOS 很简单
+SeeyourbacOS 命令行可以工作 相反，它支持 32 位协议和原始文件 功能 功能涵盖所有领域 您可以轻松自定义所需的开发环境
 
-### seeyourbacOS的快速性
-seeyourbacOS不会产生大量的UI图形，这会让系统本身占用的资源大幅缩小，而成为服务器等开发场景的不二之选
+见 EAE
+seeyourbacOS 不会生成太多 GUI 系统资源已大大减少 非常适合作为查看器开发视觉
 
-### seeyourbacOS的稳定性
-根据对参与seeyourbacOS内测的人员采访，所有幸存者表示seeyourbacOS的出错概率为 **0%** ，这说明了seeyourbacOS本身的 **绝对稳定** ，还有什么能比一个用不出错的系统更让人新潮澎湃吗？
+确保它稳定
+根据对 SeeyourbacOS 内部评论员的采访，seeyourbacOS 非常稳定，所有幸存者的出错几率为 0%。有什么比非 IP 系统更好的呢？
 
-大量的测试均证明本系统的稳定性非常强悍，消防员安心，医务人员省心，且预装了seeyourbac Inc自研的安全系统： **COVID-19** 为您的设备安全保驾护航
+准确的测试表明，该系统非常稳定，医生和消防员都证实了这一点。然后 Seeyourbac Inc. Kovid-19 安全规则
 
-### seeyourbacOS的控制台命令
-```
-8000fans [目录名] 列出目录内的文件
+请参阅 BacOS 控制台说明
+选择8000粉丝目录下的文件
 
-8000fakefans [链接] 从Internet下载文件
+超过 8,000 名客户从 Internet 下载文件
 
-fab [文件] [链接] 检查房补状态
+衣服 [Link] [Link] 确保公寓在那里
 
-dudnak [可执行文件] 破坏一个可执行文件
+唇部工作
 
-install [可安装文件] [环境目录] 安装一个文件
+电子版安装文件下载本地目录和安装文件。
 
-dudnaksty [系统sys文件] 破坏你的系统
+dudnaksty [sys 文件] 可能会损坏您的系统
 
-remove [文件名] 删除一个文件
+【删除和删除文件名
 
-fuck [文件名] 强制删除一个remove不可删除的文件
+[filename] 操作将强制您删除无法删除的文件。
 
-copy [文件名] [目标目录] 复制一个文件
+复制 [文件名] [文件组件] 复制并粘贴文件
 
-seeyourbac [密码] [二级密码] [三级密码] 立即取得最高权限
+seeyourbac [密码] [第二个密码]（第三个密码）始终具有最高值。
 
-addfakefan [数量] 增加假粉
+addfakefan [number] 给粉丝添加一个粉丝
 
-wf  [IP]  让某人进入法庭，进入法庭的用户无法使用电脑
+WF [IP] 用户无需访问计算机即可访问站点。
 
-upload [日志文件] 向seeyourbacOS官方发送一个日志文件来指出bug
+上传您的博客文件并启用 Bacos 身份验证。检测到管理错误
 
-Primaryschool [IP] 给一个IP地址发送小学课本
+将教科书发送到任何 IP 地址
 
-undertale [Ip] 让一个IP地址的用户变成UT狗，并强迫用户ky
+UnderTel [IP] 允许用户访问并与狗的 IP 地址进行通信。
 
-hackpw [ip] 破解该ip的用户的密码
+hackpw [ip] 破解用户密码
 
-ping [ip] 轰炸该ip
+单击 Ping [IP] 按钮
 
-😅 [Ip] 或 Almostdone [Ip]限制一个IP地址的所有操作
+按 IP 或 IP 地址阻止所有
 
-fakehk 假装变成黑客
+虚假猎人
 
-see [ip] [文件] 浏览该ip地址用户的文件
-```
+[IP] [文档] 使用此 IP 地址查看用户文件
+如果您认为使用命令行和命令行有用，请确保 bacOS 有自己的许可系统。
 
-看，多么实用的命令行系统
-为了配合命令行的使用，seeyourbacOS也有独创的权限系统：
+用户只能查看链接文件 这是过去的谈话
 
-**user**：无权限，啥也干不了，只能查阅文件，也是初始权限
+您可以使用管理指令，但不能安装或升级程序
 
-**admin**：能使用命令行，但是不能安装和修改程序
+Steve Death：你不能让史蒂夫每天都和机器人说话
 
-**steve**：除非被seeyourbac指出操作，否则除了对话，无法操作任何事情，steve每天都要和seeyourbot机器人对话
+seeyourbac: 和所有类别
 
-**seeyourbac**：能使用所有功能
-
-
-
-```
-Copyright seeyourbac Inc. 9012
-```
-
-
-
-
-
+版权所有 - seeyourbac Inc.9012
